@@ -10,7 +10,7 @@ The chatbot exploits IBM i Services to query system information through the DB2 
 Additional AI-based services - translation, tone analysis, speech<-->text conversion will be added to enhance the application.
 
 # Overview
-![overview diagram](img/ibmi-chatbot-overview.png]
+![overview diagram](img/ibmi-chatbot-overview.png)
 
 # ... to the workshop
 
