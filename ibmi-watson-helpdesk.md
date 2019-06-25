@@ -259,7 +259,7 @@ You are now going to import the chatbot flow and configure it to use your own se
 You need to get the Assistant artifacts (a JSON file), import it into Node-RED on IBM i, and deploy it.
 
 **Get the code.**
-To get the code, download the [Node-Red chatbot flow](ibmi-interact-flow.json) file and copy the entire file's content into clipboard.
+To get the code, download the [Node-Red chatbot flow](ibmi-password-flow.json) file and copy the entire file's content into clipboard.
 
 **Import the code.**
 Go back to the IBM i Node-RED editor in your browser, click the menu at the upper-right corner
