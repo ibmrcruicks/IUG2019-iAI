@@ -370,22 +370,23 @@ Let's do it!
 
 ## Related topics
 
-### IBM Watson Assistant
++ IBM Watson Assistant
 
 - [Watson Assistant page](https://www.ibm.com/cloud/watson-assistant/)
 - [Watson Assistant documentation](https://www.ibm.com/cloud/watson-assistant/docs-resources/)
 - [Creating a chatbot in the cloud](https://developer.ibm.com/tutorials/cc-build-chatbot-ibm-cloud/) - IBM developer tutorial
 
-### Node-RED
++ Node-RED
 
 - [Node-RED official website](https://nodered.org)
 - [Running Node-RED on IBM i: Installation and first flow](https://developer.ibm.com/tutorials/i-running-node-red/), IBM developerWorks, October 2017, by Christophe Lalevée
 
-### DB2 for i services
++ DB2 for i services
 
 - [Replacing API Calls With DB2 for i Services](http://ibmsystemsmag.com/ibmi/administrator/db2/db2-for-i-services/), IBM Systems magazine, January 2016, by Jon Paris, Susan Gantner
 - [Db2 for i services, IBM Knowledge Center IBM i 7.3](https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/rzajq/rzajqservicessys.htm)
+- [IBM i Services, IBM Knowledge Center IBM i 7.4](https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_74/rzajq/rzajqservicessys.htm)
 
-[© Copyright IBM Corporation 2017, 2018](www.ibm.com/legal/copytrade.shtml)
+[© Copyright IBM Corporation 2017, 2019](www.ibm.com/legal/copytrade.shtml)
 
 [Trademarks](www.ibm.com/developerworks/ibm/trademarks/)
